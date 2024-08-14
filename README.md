@@ -1,6 +1,6 @@
 # Random Password Generator
 
-This is a simple React project using Vite and Tailwind CSS that generates random passwords, including numbers, alphabets, and special characters. It also includes functionality to copy the generated password to the clipboard.
+This is a simple React project using React, Vite and Tailwind CSS that generates random passwords, including numbers, alphabets, and special characters. It also includes functionality to copy the generated password to the clipboard.
 
 ## Live Demo
 
