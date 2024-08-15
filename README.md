@@ -38,14 +38,10 @@ Check out the live demo [here](https://passwordgenerator-copytoclipboard.netlify
 
    `npm run dev`
 
-5. Open your browser and go to `http://localhost:3000` to view the project.
+5. Open your browser and go to `http://localhost:5173` to view the project.
 
 ## Usage
 
 1. Select the desired options for the password (numbers, alphabets, special characters).
 2. Click `Generate Password` to create a random password.
 3. Click the `Copy to Clipboard` button to copy the generated password.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
